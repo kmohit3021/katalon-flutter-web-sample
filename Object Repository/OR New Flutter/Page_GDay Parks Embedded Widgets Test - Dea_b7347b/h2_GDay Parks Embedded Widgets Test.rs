@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_GDay Parks Embedded Widgets Test</name>
+   <tag></tag>
+   <elementGuidId>1e82cae6-a585-4137-b473-37f6f1ea3efc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e775c042-5159-4924-95cd-e9a9d237868e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>G'Day Parks Embedded Widgets Test</value>
+      <webElementGuid>6aa9e0bb-3497-4d0f-8397-fd022929a3ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/h2[1]</value>
+      <webElementGuid>2c62cbea-e9a8-4497-8fd4-15db82b78fd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>626355c5-9ae6-45fc-aae5-2648ded7c087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = concat(&quot;G&quot; , &quot;'&quot; , &quot;Day Parks Embedded Widgets Test&quot;) or . = concat(&quot;G&quot; , &quot;'&quot; , &quot;Day Parks Embedded Widgets Test&quot;))]</value>
+      <webElementGuid>7e5fa720-834e-4e32-ba64-23209c79e653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

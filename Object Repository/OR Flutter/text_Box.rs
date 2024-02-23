@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Box</name>
+   <tag></tag>
+   <elementGuidId>50eb17b3-fe0a-420f-adaf-a3866a0c11e6</elementGuidId>
+   <imagePath>Images/ViewFullConditions.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>flt-semantics:nth-child(6)</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Images/ViewFullConditions.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>
